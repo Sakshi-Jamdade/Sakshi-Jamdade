@@ -16,7 +16,7 @@ Here are a few projects I've been working on:
 I'm always working on something exciting! Here are my latest updates:
 - **2025-02-20:** Working On Secure Gate System project.
 - **2025-01-15:** Contributed to an open-source project improving web accessibility.
-- **2024-12-30:** Completed a course on advanced Kubernetes management.
+- **2024-12-30:** Completed a course on Web Development.
 
 ## 📫 How to Reach Me
 - **Email:** sakshi.jamdade@example.com
