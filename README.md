@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate software developer and technology
 
 ## 💻 Tech Stack
 - **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, React, Node.js
+- **Web Development:** HTML, CSS, React, 
 - **Databases:** MySQL, MongoDB
-- **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Azure
+- **Tools & Platforms:** Git, Github
 
 ## 🚀 Projects
 Here are a few projects I've been working on:
@@ -14,7 +14,7 @@ Here are a few projects I've been working on:
 
 ## 🔧 Latest Updates
 I'm always working on something exciting! Here are my latest updates:
-- **2025-02-20:** Launched a new project on AI-driven analytics.
+- **2025-02-20:** Working On Secure Gate System project.
 - **2025-01-15:** Contributed to an open-source project improving web accessibility.
 - **2024-12-30:** Completed a course on advanced Kubernetes management.
 
