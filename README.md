@@ -13,23 +13,15 @@ java,c,html,css,django,flask,git,github,mysql,postgres,bootstrap,react,java,linu
 
 ## Top Projects
 
-- [Fergusson-College](https://github.com/Sakshi-Jamdade/Fergusson-College): Here The Code Done By Me In College... ⭐ 0 | Language: Python | Forks: 0 | Issues: 0
-- [LeetCode_Challenges](https://github.com/Sakshi-Jamdade/LeetCode_Challenges): A collection of my solutions to various LeetCode challenges. ⭐ 0 | Language: Java | Forks: 0 | Issues: 0
-- [Java-todo-cicd](https://github.com/Sakshi-Jamdade/Java-todo-cicd): A simple Java-based to-do application with CI/CD integration. ⭐ 0 | Language: Java | Forks: 0 | Issues: 0
+- [Missionries And Cannibals](https://github.com/Sakshi-Jamdade/Fergusson-College): Here The Code Done By Me In College... 
+- [Secure Gate System](https://github.com/Sakshi-Jamdade/LeetCode_Challenges): A collection of my solutions to various LeetCode challenges. 
+- [Expense Tracker](https://github.com/Sakshi-Jamdade/Java-todo-cicd): A simple Java-based to-do application with CI/CD integration. 
 
 ## GitHub Stats
 
-Public Repositories: 13 | Followers: 3 | Following: 14
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakshi-Jamdade&show_icons=true&theme=radical)
 
-## Recent Activity
-
-- Pushed changes to [Fergusson-College](https://github.com/Sakshi-Jamdade/Fergusson-College) on May 24, 2025. 
-- Created a new branch in [Fergusson-College](https://github.com/Sakshi-Jamdade/Fergusson-College) on May 24, 2025.
-
-## Latest Blog Posts
-
-Currently, I don't have blog posts to share, but you can check out my projects on GitHub!
+Public Repositories: 13 | Followers: 3 | Following: 14
 
 ## Connect with Me
 
