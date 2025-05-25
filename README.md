@@ -9,7 +9,7 @@ I am currently pursuing my Master's degree in Computer Science. Based in Pune, I
 
 ## Skills & Technologies
 
-Java, C, Html5, Css3, Python, Flask, Git, Github, MySql, Postgresql, MonoDB, Bootstrap, React
+Java, C, Html5, Css3, Python, Flask, Git, Github, MySql, Postgresql, MongoDB, Bootstrap, React
 
 ## Top Projects
 
