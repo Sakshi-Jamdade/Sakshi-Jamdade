@@ -13,9 +13,9 @@ Java, C, Html5, Css3, Python, Flask, Git, Github, MySql, Postgresql, MongoDB, Bo
 
 ## Top Projects
 
-- [Missionries And Cannibals](https://github.com/Sakshi-Jamdade/Fergusson-College): Here The Code Done By Me In College... 
-- [Secure Gate System](https://github.com/Sakshi-Jamdade/LeetCode_Challenges): A collection of my solutions to various LeetCode challenges. 
-- [Expense Tracker](https://github.com/Sakshi-Jamdade/Expense-Tracker): A simple Java-based to-do application with CI/CD integration. 
+- [Missionries And Cannibals](https://github.com/Sakshi-Jamdade/Fergusson-College): Project/Game Based On React... 
+- [Secure Gate System](https://github.com/Sakshi-Jamdade/LeetCode_Challenges): For Visitors Management System. 
+- [Expense Tracker](https://github.com/Sakshi-Jamdade/Expense-Tracker): A simple Java-based Application For Managing daily Expenses. 
 
 ## GitHub Stats
 
